@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pangolin&size=35&duration=2000&pause=1000&color=0053BB&center=true&vCenter=true&repeat=false&width=1200&lines=%F0%9F%98%81+Welcome+to+My+Profile+%F0%9F%98%81)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pangolin&size=50&duration=2000&pause=1000&color=0053BB&center=true&vCenter=true&repeat=false&width=1200&height=80&lines=%F0%9F%98%81+Welcome+to+My+Profile+%F0%9F%98%81)](https://git.io/typing-svg)
 ##
 
 <div>
