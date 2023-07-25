@@ -29,7 +29,7 @@
 
 ##
 
-<p style = "font-size: 100px;"><strong>##SKILLS</strong></p>
+## ## SKILLS
 
  <div>
       <h4 style = "font-size: 200px;">🤖  Programming Languages:</h4>
@@ -58,7 +58,7 @@
 </div>
  <br>
  
-  ### ## Contact Me
+  ## ## ContactMe
  
 <div> 
   <a href="https://instagram.com/arthur12268?igshid=NGExMmI2YTkyZg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -68,6 +68,11 @@
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+## ## BestRepositories
+> * [Listas_exercicios](https://github.com/Tupacao/Listas_exercicios)
+> * [Projeto_LandingPage](https://github.com/Tupacao/Projeto-LandingPage)
+> * [Calc_Logaritmo](https://github.com/Tupacao/Calc_Logaritmo)
 
 <div align="center">
 <br><p align="centre"><b>Visitors</b></p>  
