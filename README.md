@@ -35,7 +35,7 @@
       <h4 style = "font-size: 200px;">🤖  Programming Languages:</h4>
    </div>
    
- [![My Skills](https://skillicons.dev/icons?i=c,cpp&perline=10)](https://skillicons.dev)  
+ [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,postgres&perline=10)](https://skillicons.dev)  
    
    <div>
       <h4 style = "font-size: 200px;">💻  Frontend Development:</h4>
@@ -53,7 +53,7 @@
       <h4 style = "font-size: 200px;">👨‍💻  Future Learning:</h4>
    </div>
 
-   [![My Skills](https://skillicons.dev/icons?i=py,java,cs,docker,sqlite,php,postgres,react&perline=10)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,cs,docker,react&perline=10)](https://skillicons.dev)
    
 </div>
  <br>
