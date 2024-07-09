@@ -70,9 +70,9 @@
 </div>
 
 ## ## BestRepositories
-> * [Listas_exercicios](https://github.com/Tupacao/Listas_exercicios)
-> * [Projeto_LandingPage](https://github.com/Tupacao/Projeto-LandingPage)
-> * [Calc_Logaritmo](https://github.com/Tupacao/Calc_Logaritmo)
+> * 
+> * 
+> * 
 
 <div align="center">
 <br><p align="centre"><b>Visitors</b></p>  
